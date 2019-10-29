@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bricezakra/MongoDB_Web-Scraper/issues"
   },
-  "homepage": "https://github.com/bricezakra/MongoDB_Web-Scraper#readme"
+  "homepage": "https://github.com/bricezakra/MongoDB_Web-Scraper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

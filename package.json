@@ -1,0 +1,24 @@
+{
+  "name": "MongoDB_Web-Scraper",
+  "version": "1.0.0",
+  "description": "This is a web application using MongoDB &amp; Node.JS to web-scrape news data allowing users to make some comments",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bricezakra/MongoDB_Web-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bricezakra/MongoDB_Web-Scraper/issues"
+  },
+  "homepage": "https://github.com/bricezakra/MongoDB_Web-Scraper#readme"
+}
